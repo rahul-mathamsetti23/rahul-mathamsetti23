@@ -19,6 +19,7 @@
 
 
 ## 🌐 Socials:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rahulsetti999@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/govindrahulmathamsetti/) 
 
 # 💻 Tech Stack:
