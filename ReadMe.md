@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actively seeking opportunities in software development/engineering, I'm open to collaboration, volunteering, or engaging discussions. Let's connect to explore how we can drive technological advancements together.<br>👯 I’m looking to collaborate on full-stack web development & DSA<br>🌱 I’m currently learning System design and Data Structures & Algo<br>✍️ In my free time, I listen to music, play Badminton<br>⚡ Fun fact, I always forget the syntax to iterate a HashMap in Java
+🔭 Actively seeking opportunities in software development/engineering, I'm open to collaboration, volunteering, or engaging discussions. Let's connect to explore how we can drive technological advancements together<br>👯 Seeking partnerships in full-stack web development and data structures & algorithms. Keen to join forces for innovative projects<br>🌱Currently enhancing my expertise in System Design and Data Structures & Algorithms<br>✍️ In my free time, I listen to music, play Badminton<br>⚡ Fun fact, I always forget the syntax to iterate a HashMap in Java
 
 
 ## 🌐 Socials:
