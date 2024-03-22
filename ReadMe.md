@@ -13,7 +13,7 @@
 - ✍️ **In my free time**, I listen to music and play Badminton.
 
 ## ⚡ Fun Fact
-- 🤔 **Forgetful Syntax**: I always forget the syntax to iterate a HashMap in Java.
+- 🤔 **Forgetful Syntax**: I always forget the syntax to iterate a HashMap.
 
 
 
